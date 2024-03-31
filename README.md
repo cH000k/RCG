@@ -1,3 +1,5 @@
+Name: Noel Cedrix O. Joaquin
+
 GOAL:
 1. Create a python script to query the TimezoneDB API and populate the tables TZDB_TIMEZONES and TZDB_ZONE_DETAILS
 2. Your script should handle errors when retrieving the API and log them into the table TZDB_ERROR_LOG.
